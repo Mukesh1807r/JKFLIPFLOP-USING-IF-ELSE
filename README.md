@@ -83,6 +83,6 @@ endmodule
 
 ![Screenshot 2024-12-13 130546](https://github.com/user-attachments/assets/8d2dd363-078b-42fb-96e5-1bba5401b64a)
 
-**RESULTS**
+**RESULT**
 
 JK flipflop using verilog and validating their functionality using their functional tables is verified
